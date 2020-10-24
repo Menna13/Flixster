@@ -1,11 +1,14 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+
 ---
 
 ## Flix Part 1
 
 ### User Stories
+`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [X] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -21,9 +24,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-![](gifwalkthrough.gif)
+is in the repositry files. Encountered issues adding it here as of file size issues 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+
+
+
 
 ### Notes
 Struggled with understanding the implementation of the RecyclerView. However, at the end the content seemed to make more sense and getting clearer. It will be solidified when I do multiple implementation practices of  the RecyclerView
