@@ -54,7 +54,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder{
-
+        //
         TextView tvTitle;
         TextView tvOverview;
         ImageView ivPoster;
