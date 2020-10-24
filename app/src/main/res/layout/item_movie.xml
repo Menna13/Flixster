@@ -22,6 +22,7 @@
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@+id/ivPostar"
         android:text="TextView"
+        android:textColor="#EDE5E5"
         android:textSize="24sp"
         tools:text="2067" />
 
@@ -34,6 +35,7 @@
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPostar"
         android:text="TextView"
+        android:textColor="#D3C5C5"
         tools:text="A lowly utility worker is called to the future by a mysterious radio signal, he must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet." />
 
 </RelativeLayout>
