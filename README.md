@@ -3,7 +3,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ---
 
-
 ## Flix Part 2
 
 ### User Stories
@@ -25,15 +24,17 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-
-in the project files
+![](https://i.imgur.com/bkDRBCb.gif)
 
 ### Notes
-The youtube wouldn't start working for some reason. I tried many things such as chancing the android app version but nothing seemed to work.
+
+Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+
+---
 
 ## Flix Part 1
 
