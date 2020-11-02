@@ -25,6 +25,9 @@
 
 <img src="https://i.imgur.com/LVnbIqS.gif" width=250><br>
 
+![](https://i.imgur.com/Harkr9M.gif)
+
+
 
 ### Notes
 
@@ -55,7 +58,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-is in the repositry files. Encountered issues adding it here as of file size issues 
+is in the repositry files. Encountered issues adding it here as of file size issues
 
 
 
