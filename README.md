@@ -1,5 +1,3 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
-
 ## Flix Part 2
 
 ### User Stories
@@ -21,11 +19,8 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-
-![](https://i.imgur.com/sN4rGg8.gif)
-
+![](https://i.imgur.com/FVxoWLu.gif)
 
 
 ### Notes
@@ -41,7 +36,7 @@ Describe any challenges encountered while building the app.
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
+
 
 #### REQUIRED (10pts)
 - [X] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -58,9 +53,6 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 
 is in the repositry files. Encountered issues adding it here as of file size issues 
-
-
-
 
 
 ### Notes
