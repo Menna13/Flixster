@@ -25,7 +25,7 @@ import org.parceler.Parcels;
 import java.util.List;
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> {
-
+//stretch updates
     Context context;
     List<Movie> movies;
 
